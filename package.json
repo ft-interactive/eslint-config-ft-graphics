@@ -1,0 +1,5 @@
+{
+  "name": "eslint-config-ft-graphics",
+  "version": "0.0.0",
+  "description": "A few strict rules for use in CI"
+}
