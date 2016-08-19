@@ -1,3 +1,10 @@
 module.exports = {
-  'no-const-assign': 2,
+  parser: 'babel-eslint',
+  env: {
+    es6: true,
+    'shared-node-browser': true,
+  },
+  rules: {
+    'no-const-assign': 2,
+  },
 };
